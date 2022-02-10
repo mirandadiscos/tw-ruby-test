@@ -19,4 +19,3 @@ def main
   order = shopping_cart.checkout
   puts order.to_s
 end
-
